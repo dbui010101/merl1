@@ -1,0 +1,17 @@
+{
+  "name": "ex_4",
+  "version": "1.0.0",
+  "description": "an awesome api rest to handle some pokemons.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "david",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
